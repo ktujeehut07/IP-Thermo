@@ -68,6 +68,7 @@ plt.plot(t,x_2,'b.', markersize=1, label='fietser 2')
 
 plt.show()
 a = 2
+b=6
 
 ```
 
